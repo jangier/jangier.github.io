@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Management Information Systems, University of RI, 2001
+* M.S. in Business Analytics, NYU Stern, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2008-current: EVP/Strategic Customer Partner
+  * Hybrid Intelligence
+  * Act as true strategic partner providing expertise, honest advice and solution options that help to create more value with data for more business insights, better reporting, improved planning, and more sophisticated analysis for CPG manufacturers. Primary responsibilities include client relations, customer service, data analysis and management (product evolution & development), responsibility for technical implementations and testing, and HR.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2006-2008: Manager, Sales Reporting Systems
+  * Unilever
+  
+* 2005-2006: Solutions Consulting Manager
+  * VeriSign
+
   
 Skills
 ======
