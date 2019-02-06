@@ -14,16 +14,22 @@ Education
 * B.S. in Management Information Systems, University of RI, 2001
 * M.S. in Business Analytics, NYU Stern, 2019
 
-Things I am reading
+Interests
 ======
 * xxx 
 
-Things I am learning
+Readings
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Favorite Sites
+  * https://towardsdatascience.com/@williamkoehrsen
+  * https://www.dataschool.io/
+  * https://bookdown.org/yihui/rmarkdown/html-document.html
+* Books
+  * The Laws of Human Nature and THe 48 Laws of Power by Robert Greene
+  * Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are by Seth Stephens-Davidowitz
+  * Smarter Faster Better: The Secrets of Being Productive in Life and Business by Charles Duhigg 
+  * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
+  * How to Win Friends & Influence People by Dale Carnegie
+  * The Tipping Point, Blink, and Outliers all by Malcolm Gladwell
+* Currently reading: Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets by Nassim Nicholas Taleb 
 
