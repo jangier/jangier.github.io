@@ -14,10 +14,6 @@ Education
 * B.S. in Management Information Systems, University of RI, 2001
 * M.S. in Business Analytics, NYU Stern, 2019
 
-Interests
-======
-* xxx 
-
 Readings
 ======
 * Favorite Sites
@@ -31,5 +27,5 @@ Readings
   * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
   * How to Win Friends & Influence People by Dale Carnegie
   * The Tipping Point, Blink, and Outliers all by Malcolm Gladwell
-* Currently reading: Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets by Nassim Nicholas Taleb 
+* Currently reading: Fooled by Randomness: The Checklist Manifesto: How to Get Things Right by Atul Gawande
 
