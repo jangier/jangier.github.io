@@ -27,5 +27,5 @@ Readings
   * Deep Work: Rules for Focused Success in a Distracted World by Cal Newport
   * How to Win Friends & Influence People by Dale Carnegie
   * The Tipping Point, Blink, and Outliers all by Malcolm Gladwell
-* Currently reading: Fooled by Randomness: The Checklist Manifesto: How to Get Things Right by Atul Gawande
+* Currently reading: The Checklist Manifesto: How to Get Things Right by Atul Gawande
 
