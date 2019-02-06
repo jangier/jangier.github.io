@@ -1,6 +1,6 @@
 ---
 title: "Exploration in NLP"
-excerpt: "NLP of Taylor Swift lyrics <br/><img src='/images/500x300.png'>"
+excerpt: "NLP of Taylor Swift lyrics <br/><img src='/images/taylorimg.PNG'>"
 collection: portfolio
 ---
 
